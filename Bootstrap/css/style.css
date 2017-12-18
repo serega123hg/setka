@@ -1,0 +1,104 @@
+.wrapper{
+	position: relative;
+	top: 250px;
+}
+.top-align{
+
+  font-size: 45px;
+  font-family: "Arvo";
+  color: rgb(59, 63, 106);
+  line-height: 1.833;
+  position: absolute;
+  top: 30px;
+ 
+}
+.box{
+position: relative;
+margin:20px;
+display: block;
+width: 230px;
+height: 120px;
+}
+.card-left{
+	position: absolute;
+	display: inline-block;
+    top: 50px;
+    left: 20px;
+
+}
+.card-center{
+	position: absolute;
+	display: inline-block;
+	top: 40px;
+	left: 40px;
+	z-index: 1;
+}
+.card-right{
+	position: absolute;
+	display: inline-block;
+    top: -10px;
+	left: 70px;
+	z-index: 2;
+
+}
+.inside{
+    position: relative;
+    top:22px;
+	left: 77px;
+}
+.car-wash{
+  position: absolute;
+  display: inline-block;
+  top: 70px;
+  left: 55px;
+  z-index: 4;
+}
+.face{
+position: absolute;
+  display: inline-block;
+  z-index:6;
+  left: 150px;
+  top: 28px;
+}
+.umbrella{
+position: absolute;
+  display: inline-block;
+  z-index: 3;
+  left: 20px;
+}
+.calc{
+position: absolute;
+  display: inline-block;
+  z-index:5;
+  top: 60px;
+  left: 10px;
+}
+.title{
+
+  font-size: 22px;
+  font-family: "Arvo";
+  color: rgb(59, 63, 106);
+  line-height: 1.2;
+  text-align: center;
+  width: 190px;
+  height: 47px;
+
+}
+.text{
+
+  font-size: 20px;
+  font-family: "NotoSans";
+  color: rgb(104, 108, 139);
+  line-height: 1.5;
+  text-align: center;
+  width: 190px;
+  height: 45px;
+  padding-top: 10px;
+}
+.block{
+	position: relative;
+	width: 190px;
+    height: 92px;
+    margin:30px;
+    margin-bottom: 60px;
+}
